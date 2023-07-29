@@ -1,0 +1,27 @@
+.negro{
+    color: black;
+}
+
+.azul{
+    color: blue;
+}
+
+img.foto{
+    height: 150px;
+    width: 150px;
+    margin-left:75%;
+}
+
+#formularioCONT div{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+#listaPS{
+    color: coral;
+}
+
+body{
+    background-color: aquamarine
+}
